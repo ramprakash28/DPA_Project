@@ -1,4 +1,13 @@
-Churn Analysis with Machine Learning
+# Telco Customer Churn Prediction
+
+This repository is a collaborative project focused on analyzing and predicting customer churn for a telecom company. The project involves data exploration, feature engineering, and machine learning model building.
+
+## Team Members
+- **Ram Prakash Bollam - A20561314**
+- **Deekshitha Adishesha Raje Urs - A20560682**
+- **Prithwee Reddei Patelu - A20560828**
+- **Nihal Korukanti - A20562326**
+- **Praveenraj Seenivasan - A20562374**
 
 Overview
 
@@ -84,16 +93,6 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
-
-Ram Prakash Bollam - A20561314
-
-Praveenraj Seenivasan - A20562374
-
-Deekshitha Adishesha Raje Urs - A20560682
-
-Nihal Korukanti - A20562326
-
-Prithwee Reddei Patelu - A20560828
 
 Data Source: Telco Customer Churn Dataset on Kaggle by Alfath Terry.
 
