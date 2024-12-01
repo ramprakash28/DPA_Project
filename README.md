@@ -85,10 +85,16 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 
-Ram Prakash Bollam - A20561314 
-Praveenraj Seenivasan - A20562374 
+Ram Prakash Bollam - A20561314
+
+Praveenraj Seenivasan - A20562374
+
 Deekshitha Adishesha Raje Urs - A20560682
+
 Nihal Korukanti - A20562326
+
 Prithwee Reddei Patelu - A20560828
+
 Data Source: Telco Customer Churn Dataset on Kaggle by Alfath Terry.
+
 Special thanks to the Kaggle community for providing this valuable dataset for research and experimentation.
